@@ -39,3 +39,35 @@
 ## Function
 * user-define 
 * inbuild function: print(),lent
+
+
+# Modules
+* inbuild: datetime,sys,os
+* user define: create by user
+
+# Exception Handling
+* try
+* except
+* finally
+
+# File Handling
+## Types of file
+* text
+* binary
+* open()
+### mode: r, w, a, r+
+* r- read
+* w- write
+* a- append
+* r+- read and write
+
+# Regular expression
+* https://regexr.com/
+* https://www.regexpal.com/
+* import re
+
+# JSON
+* import json
+
+
+# OOP
